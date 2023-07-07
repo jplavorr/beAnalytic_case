@@ -23,7 +23,7 @@ Aqui está o [link](https://docs.google.com/spreadsheets/d/1yvmkhXEPdnjMMDFoqKl6
 A arquitetura do projeto é a seguinte:
 
 <p align="center">
-  <img src= "arquitetura/etl_bq_sheets.png" >
+  <img src= "arquitetura/elt_bq_sheets.png" >
 </p>
 
 ## Melhorias Futuras
