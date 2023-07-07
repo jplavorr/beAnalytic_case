@@ -32,3 +32,6 @@ Uma possível melhoria para este projeto seria a automação do processo de tran
 
 Dessa forma, sempre que novos dados fossem adicionados ao arquivo TXT, eles seriam automaticamente carregados no Google BigQuery, e a tabela do Google Sheets seria atualizada em tempo real.
 
+## Outra Forma
+O steamdb é muito reservado quanto crawlers, mas é possível obter o resultado usando o próprio site da steam.
+
