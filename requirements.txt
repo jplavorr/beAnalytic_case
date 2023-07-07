@@ -1,0 +1,3 @@
+google.cloud
+beautifulsoup4
+pandas
