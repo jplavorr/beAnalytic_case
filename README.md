@@ -26,7 +26,7 @@ A arquitetura do projeto é a seguinte:
   <img src= "arquitetura/elt_bq_sheets.png" >
 </p>
 
-## Melhorias Futuras
+## Automação
 
 Uma possível melhoria para este projeto seria a automação do processo de transferência dos dados do arquivo TXT para o Google BigQuery. Isso poderia ser realizado configurando uma Cloud Function para acionar sempre que houvesse uma alteração no arquivo TXT.
 
