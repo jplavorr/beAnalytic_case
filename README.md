@@ -12,7 +12,7 @@ O desafio consistiu em:
 
 ## Minha Solução
 
-Dado que a página do SteamDB não permite a extração de dados via webscraping, optei por realizar o download manual do HTML da página. Após isso, tratei o HTML para gerar as informações necessárias.
+Dado que a página do SteamDB não permite a extração de dados via webscraping, optei por realizar o download manual do HTML da página, coloquei no arquivo `request.txt`. Após isso, tratei o HTML para gerar as informações necessárias.
 
 Com os dados devidamente tratados e estruturados, desenvolvi um código que transfere o resultado desse processamento (um dicionário Python) para uma tabela no Google BigQuery. Em seguida, fiz a integração dessa tabela com o Google Sheets.
 
@@ -22,7 +22,9 @@ Aqui está o [link](https://docs.google.com/spreadsheets/d/1yvmkhXEPdnjMMDFoqKl6
 
 A arquitetura do projeto é a seguinte:
 
-![Arquitetura do Projeto](arquitetura/etl_bq_sheets.png)
+<p align="center">
+  <img src= "arquitetura/etl_bq_sheets.png" >
+</p>
 
 ## Melhorias Futuras
 
